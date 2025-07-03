@@ -1,8 +1,7 @@
 {
-  "pr_number": "12",
-  "pr_title": "some change v2",
+  "pr_number": "11",
+  "pr_title": "Some branch ",
   "pr_author": "mistic0xb",
-  "deployed_at": "2025-07-03T15:38:35Z",
-  "commit_sha": "2a734daf645bcc3864368b16ac9c5e19da8314a7",
-  "environment": ""
+  "deployed_at": "2025-07-03T16:23:19Z",
+  "commit_sha": "5e61620dbaac1061b04ed3a0ce879a933b663e52"
 }
